@@ -1,4 +1,4 @@
-## Hello world I'm Raveen DIssanayaka 😎👋
+## Hello world I'm Raveen Dissanayaka 😎👋
 
 ![Banner Image](./ninja.jpg)
 <!--
