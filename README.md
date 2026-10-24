@@ -1,6 +1,5 @@
 ## Hello world, I'm Raveen Dissanayaka 😎👋
 
-![Banner Image](./ninja.jpg)
 <!--
 **RaveenDi/RaveenDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
